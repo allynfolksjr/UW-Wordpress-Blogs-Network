@@ -29,9 +29,9 @@
 					<?php comments_template( '', true ); ?>
 
 			<?php endwhile; // end of the loop. ?>
-
-				</div
->				<div id="secondary" class="span4 right-bar" role="complementary">
+<?php posts_nav_link(); ?>
+				</div>
+			<div id="secondary" class="span4 right-bar" role="complementary">
 					<div class="stripe-top"></div><div class="stripe-bottom"></div>				
           <div id="sidebar">
           <?php if (is_active_sidebar('homepage-sidebar') && is_front_page() ||
