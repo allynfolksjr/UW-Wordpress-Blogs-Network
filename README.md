@@ -15,6 +15,7 @@ Modifications
 * Show previous/next links at bottom of home page and category/tag/archive pages, as relevant.
 * Show previous/next links at bottom of individual posts, as relevant.
 * Removed menu inherentance. As originally set up, any blog using the UW WordPress Theme would inherit its menus from the default blog if it *did not have a primary menu already defined* (it assumes it's also running in a multisite install). This is not desired as the default blog often has specialized menus that would confuse users.  Instead, if no primary menu is defined, it will show a blank bar.
+* Updated the weather and banner URLs to use the theme folder as "UW-Wordpress-Theme" rather than 'uw,' and changed their link structure slightly.
 
 To-Do/Notes
 -----------
