@@ -1,19 +1,11 @@
 /*
-Theme Name: UW + Blogs Network Customizations
-Theme URI: washington.edu
-Description: A parent theme for UW Wordpress templates
+Theme Name: UW + Blogs Network
+Theme URI: https://github.com/allynfolksjr/UW-Wordpress-Blogs-Network
+Description: UW WordPress Theme with tweaks for the UW Blogs Network
 Author: UW Web Team (but mostly Kilian) + Modifications by UW-IT
 Author URI: http://uw.edu/ + http://blogs.uw.edu
 Template: UW-Wordpress-Theme
 Version: 1.0
 */
 
-
-/********************************************************************************************************************************************************************************
-	Common to both Mobile and Desktop 
-*********************************************************************************************************************************************************************************/
-
-/************************************************************************************
-    Global
-*************************************************************************************/
 @import url('../UW-Wordpress-Theme');
